@@ -1,8 +1,5 @@
 # The-Sparks-Foundation
-@ Author- Nikita Gupta                                           
-                               
-Data Science and Analytics Internship -GRIP tasks (Graduate Rotational Internship Program)                                                                  
-This repository is for storing code related to internship at The SPARKS Foundation
+This repository consists of my work pertaining to 'Data Science & Business Analytics Internship' at The Sparks Foundation.                                           
 
 (TASK - 2) - This folder contains data of some students. Task is to predict whether score increases if number of hours of study increases. We performed EDA and fitted a linear Regression model for this data.
 
