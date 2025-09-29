@@ -11,3 +11,5 @@ This repository is for storing code related to internship at The SPARKS Foundati
 (TASK - 4) - In this task we were to explore Decision Tree Algorithm using sklearn on IRIS dataset. First we splitted the data into train and test part. Then we fitted a DecisionTreeClassifier on the dataset. For visulaising it, we used matplotlib.
 
 (TASK - 5) - In this final task, we were to analyse a business data and see how the company is performing.The visuals of the data are created using Tableau and insights of weak areas are derived where the company can focus more to increase more profit.
+
+<img width="1056" height="816" alt="TSF GRIP Certificate" src="https://github.com/user-attachments/assets/1d18c570-d96a-4464-b752-d32d7695e557" />
